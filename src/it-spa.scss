@@ -1,0 +1,18 @@
+body {
+    background-color: #F6F4E8;
+    padding: 2em;
+}
+
+main {
+    padding: 2em 1em;
+}
+
+.btn-active {
+    background-color: #BACEC1;
+
+    &:active,
+    &:focus,
+    &:hover {
+        background-color: #E59560;
+    }
+}
