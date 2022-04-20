@@ -1,0 +1,89 @@
+{
+  "users": [],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Pokój unarny",
+      "beds": 1,
+      "guests": 1,
+      "price": 170,
+      "description": "Przestronne i eleganckie pokoje gościnne o powierzchni 32m2. Elegancki wystrój tworzą starannie dobrane drewniane meble i subtelne oświetlenie oraz materiały o ciepłych odcieniach, co sprzyja zarówno pracy jak i wypoczynkowi. Łazienki są wyposażone w wannę oraz oddzielną kabinę prysznicową."
+    },
+    {
+      "id": 2,
+      "name": "Pokój binarny",
+      "beds": 1,
+      "guests": 2,
+      "price": 240,
+      "description": "Komfortowe i przestronne pokoje o eleganckich wnętrzach. Zaprojektowano je tak, aby idealnie łączyły przestrzeń do pracy i wypoczynku. We wszystkich łazienkach znajduje się kabina prysznicowa i oddzielna wanna."
+    },
+    {
+      "id": 3,
+      "name": "Pokój trójkowy",
+      "beds": 2,
+      "guests": 3,
+      "price": 290,
+      "description": "Przestronne i eleganckie pokoje, o powierzchni od 33m2 do 39 m2 stanowią idealną przestrzeń do wypoczynku i pracy. Z panoramicznych okien roztacza się widok na centrum Warszawy, ze wszystkich pokoi widać sąsiadujący z hotelem Pałac Kultury i Nauki."
+    },
+    {
+      "id": 4,
+      "name": "Pokój czwórkowy",
+      "beds": 2,
+      "guests": 4,
+      "price": 340,
+      "description": "Pokoje o powierzchni 68 m2, podzielone są na dwie części. W części wypoczynkowej znajdują się dwa łóżka, sofa i wygodne biurko do pracy, drugą część stanowi sypialnia z dwoma wygodnymi łóżkiem typu queen. Łazienki są wyposażone w wannę oraz oddzielną kabinę prysznicową, a w salonie dostępna jest osobna toaleta."
+    }
+  ],
+  "treatments": [
+    {
+      "id": 1,
+      "name": "Masaż rozgrzanym monitorem",
+      "area": "back",
+      "time": 30,
+      "price": 80
+    },
+    {
+      "id": 2,
+      "name": "Biczowanie kablem od myszy",
+      "area": "back",
+      "time": 20,
+      "price": 70
+    },
+    {
+      "id": 3,
+      "name": "Peeling odłamkami płyty CD",
+      "area": "face",
+      "time": 15,
+      "price": 50
+    },
+    {
+      "id": 4,
+      "name": "Pedicure woskiem z USB",
+      "area": "legs",
+      "time": 25,
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "Manicure analogowo-cyfrowy",
+      "area": "hands",
+      "time": 45,
+      "price": 150
+    },
+    {
+      "id": 6,
+      "name": "Kąpiel w gorącej kawie",
+      "area": "body",
+      "time": 60,
+      "price": 200
+    },
+    {
+      "id": 7,
+      "name": "Depilacja dyskiem twardym",
+      "area": "body",
+      "time": 45,
+      "price": 120
+    }
+  ]
+}
+ 
